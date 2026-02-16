@@ -9,7 +9,7 @@ Aplicación de consola en Java que permite convertir entre diferentes monedas ut
 - Manejo de errores y validaciones
 - Interfaz de consola amigable
 
-## 🛠 Tecnologías
+##  Tecnologías
 
 - Java 17+
 - Gson para parsing de JSON
